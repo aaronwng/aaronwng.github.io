@@ -1,7 +1,7 @@
 # Portfolio
 My Portfolio
 
-## Ssage
+## Usage
 Find somewhere to host these static files
 like browser-sync
 
