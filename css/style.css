@@ -8,17 +8,17 @@ html {
   font-family: "helvticalBold";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/HELVETICALTSTD-COMP.ttf") format("truetype"); }
+  src: url("/fonts/HELVETICALTSTD-COMP.ttf") format("truetype"); }
 @font-face {
   font-family: "siteNormal";
   font-style: normal;
   font-weight: 100;
-  src: url("../fonts/FZLTCXHJW.ttf") format("truetype"); }
+  src: url("/fonts/FZLTCXHJW.ttf") format("truetype"); }
 @font-face {
   font-family: "siteNormalBold";
   font-style: normal;
   font-weight: 100;
-  src: url("../fonts/FZLTHBK.ttf") format("truetype"); }
+  src: url("/fonts/FZLTHBK.ttf") format("truetype"); }
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
   background-color: #477dca;
@@ -382,7 +382,11 @@ html {
               color: black; }
               .siteNavMain .topNav .siteMapList > li .siteNav2 .siteMapList2 > li:hover {
                 color: white;
-                background-color: #dc1557; }
+                background-color: #1a90ff; }
+              .siteNavMain .topNav .siteMapList > li .siteNav2 .siteMapList2 > li > a {
+                width: 100%;
+                height: 100%;
+                display: block; }
           .siteNavMain .topNav .siteMapList > li .siteNav2 .title {
             border-top: 1px #eeeeee solid;
             font-size: 16px;
@@ -394,7 +398,7 @@ html {
           .siteNavMain .topNav .siteMapList > li .siteNav2:hover {
             color: black; }
         .siteNavMain .topNav .siteMapList > li:hover, .siteNavMain .topNav .siteMapList > li.active {
-          color: #dc1557; }
+          color: #1a90ff; }
       @media screen and (max-width: 1185px) {
         .siteNavMain .topNav .siteMapList > li:first-child {
           display: none; } }
@@ -585,7 +589,7 @@ html {
       overflow: hidden; }
       .aboutColm .brandWrap .brand .circle {
         border-radius: 50%;
-        border: 1px solid #dc1557;
+        border: 1px solid #1a90ff;
         width: 100%;
         height: 100%;
         position: absolute;
@@ -763,7 +767,7 @@ html {
 .advantage {
   text-align: center; }
   .advantage .topBanner {
-    background-color: #dc1557;
+    background-color: #1a90ff;
     color: white;
     padding-top: 80px;
     padding-bottom: 40px; }
@@ -905,7 +909,7 @@ html {
       position: relative;
       left: 0;
       width: 860px;
-      height: 280px;
+      height: 380px;
       margin-left: auto;
       margin-right: auto; }
       .advantage .detailWindow .detailContent li {
@@ -1252,7 +1256,7 @@ html {
               visibility: visible;
               height: 100%; }
             .evaluation .detailWindow .detailContent li .brandList td .mask {
-              background-color: #dc1557; }
+              background-color: #1a90ff; }
             .evaluation .detailWindow .detailContent li .brandList td .contentWrap {
               color: white;
               padding: 30px;
@@ -1836,7 +1840,7 @@ body > *, .siteNavMain .topNav {
   width: 50px;
   background-position: 0 -2532px;
   margin: 0 auto 20px;
-  border-top: 2px solid red; }
+  border-top: 2px solid #1a90ff; }
 
 .pageTitle {
   padding-top: 60px;
