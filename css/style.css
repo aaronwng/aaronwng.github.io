@@ -399,9 +399,6 @@ html {
             color: black; }
         .siteNavMain .topNav .siteMapList > li:hover, .siteNavMain .topNav .siteMapList > li.active {
           color: #1a90ff; }
-      @media screen and (max-width: 1185px) {
-        .siteNavMain .topNav .siteMapList > li:first-child {
-          display: none; } }
       .siteNavMain .topNav .siteMapList > li > a {
         line-height: 100px;
         padding: 0 20px 0; }
