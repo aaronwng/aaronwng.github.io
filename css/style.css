@@ -217,6 +217,9 @@ body > *, .siteNavMain .topNav {
   width: 100%;
   min-width: 1080px; }
 
+.link {
+  color: #1a90ff; }
+
 .underline {
   text-decoration: underline; }
 
@@ -511,6 +514,9 @@ html, body {
 body > *, .siteNavMain .topNav {
   width: 100%;
   min-width: 1080px; }
+
+.link {
+  color: #1a90ff; }
 
 .underline {
   text-decoration: underline; }
@@ -1346,6 +1352,9 @@ html, body {
 body > *, .siteNavMain .topNav {
   width: 100%;
   min-width: 1080px; }
+
+.link {
+  color: #1a90ff; }
 
 .underline {
   text-decoration: underline; }
