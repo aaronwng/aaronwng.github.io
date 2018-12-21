@@ -1,5 +1,5 @@
 # Portfolio
-My Portfolio, you can visit it the online [here](https://biblesyme.github.io/).
+My Portfolio, you can visit it online [here](https://biblesyme.github.io/).
 
 ## Offline Usage
 
