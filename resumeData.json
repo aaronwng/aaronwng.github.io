@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Hi, I am Aaron",
+    "description":"Love designing and building user-friendly products to improve the efficiency of software teams. Now I am seeking a Senior UI/UX Engineer position",
+    "image":"profilepic.jpg",
+    "bio":"My last title was a team leader, 7-year experience in software development, both backend and front-end, 5-year React.JS experience, and a big fan of it, more than 4-year focused on cloud-native. Love designing and building user-friendly products to improve the efficiency of software teams. Now I am seeking a full-time product-oriented position as a Senior UI/UX Engineer.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "aaronwng.ux@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/biblesyme",
+    "Linkedin":"https://www.linkedin.com/in/aaron-wong-5b1804156/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://biblesyme.github.io",
+    "resumedownload":"https://www.dropbox.com/s/gi5whd2yfo2f2y4/Resume-Aaron.docx?raw=1",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aaron-wong-5b1804156/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/biblesyme",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Experienced UX Engineer",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Logo Design",
+        "description":"My Travel Blog for my post-university travels",
+        "image":"01.png"
+      },
+      {
+        "title":"React Component",
+        "description":"Tree of Storage Snapshot",
+        "image":"02.png"
+      }
+    ]
+  }
+}
