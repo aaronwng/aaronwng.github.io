@@ -7,7 +7,7 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "aaronwng.ux@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/biblesyme",
+    "github":"https://github.com/aaronwng",
     "Linkedin":"https://www.linkedin.com/in/aaron-wong-5b1804156/",
     "address":{
       "street":"(Your Street)",
@@ -15,8 +15,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "https://biblesyme.github.io",
-    "resumedownload":"https://www.dropbox.com/s/gi5whd2yfo2f2y4/Resume-Aaron.docx?raw=1",
+    "website": "https://aaronwng.github.io",
+    "resumedownload":"https://www.dropbox.com/scl/fi/ot1nm28oetf6e620dhcll/Resume-Aaron_2026.pdf?rlkey=mhy7u037ywv13crfdc0wf7n69&st=4lgu2q23&dl=0",
     "social":[
      
       {
@@ -27,7 +27,7 @@
      
       {
         "name":"github",
-        "url":"https://github.com/biblesyme",
+        "url":"https://github.com/aaronwng",
         "className":"fa fa-github"
       }
     ]
